@@ -3,9 +3,8 @@
 
 Sistem Informasi Manajemen Café berbasis Laravel yang mendukung transaksi POS, monitoring food waste, sustainability reporting, dan integrasi REST API berbasis JWT Authentication.
 
----
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - 🔐 Multi-role System (Admin, Kasir, Customer)
 - 🧾 Transaksi POS Café
@@ -17,12 +16,10 @@ Sistem Informasi Manajemen Café berbasis Laravel yang mendukung transaksi POS, 
 - 📖 Riwayat Transaksi Customer
 - 🧑‍💼 Manajemen Menu & Kategori
 
----
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Teknologi | Keterangan |
-|---|---|
 | Laravel 10 | Backend Framework |
 | PHP 8.1 | Bahasa Pemrograman |
 | MySQL | Database |
@@ -30,9 +27,8 @@ Sistem Informasi Manajemen Café berbasis Laravel yang mendukung transaksi POS, 
 | Flutter | Mobile Integration |
 | Blade | Template Engine |
 
----
 
-## 👥 Role Sistem
+## Role Sistem
 
 ### Admin
 - Mengelola menu dan kategori
@@ -53,9 +49,8 @@ Sistem Informasi Manajemen Café berbasis Laravel yang mendukung transaksi POS, 
 - Melakukan pemesanan
 - Melihat riwayat transaksi
 
----
 
-## 🚀 Instalasi Project
+## Instalasi Project
 
 Clone repository:
 
@@ -100,9 +95,8 @@ Menjalankan server:
 php artisan serve
 ```
 
----
 
-## 🔗 REST API
+## REST API
 
 Endpoint utama REST API:
 
@@ -112,23 +106,4 @@ Endpoint utama REST API:
 * `/api/transaksi`
 * `/api/laporan`
 
----
-
-## 📸 Screenshot Sistem
-
-* Dashboard Admin
-* Dashboard Kasir
-* POS Transaksi
-* Monitoring Food Waste
-* Sustainability Report
-* Customer Ordering
-
----
-
-## 👩‍💻 Developer
-
-Developed by **Alidaneila**
-
-```
-```
 
